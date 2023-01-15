@@ -9,11 +9,11 @@
     "image hosting",
     "free"
   ],
-  "author": "harrisoff",
-  "homepage": "https://github.com/harrisoff/free-onedrive-image-hosting",
+  "author": "tcphp",
+  "homepage": "https://github.com/612901/tcphp",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harrisoff/free-onedrive-image-hosting.git"
+    "url": "git+https://github.com/612901/tcphp.git"
   },
   "license": "MIT",
   "scripts": {
